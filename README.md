@@ -3,40 +3,53 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maryam-ui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Ideas-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Coding%20&%20Building-blue?style=flat-square" alt="Status" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning and expanding my skills in **Full Stack Development**.
-- 👯 Looking to collaborate on exciting open-source web projects.
-- 📫 How to reach me: **arifmaryam498@gmail.com**
+- 🌱 I’m currently expanding my stack in **Full Stack Web Development**.
+- 💼 Reach me at **arifmaryam498@gmail.com**
 
 ---
 
-### 📊 GitHub Analytics & Stats
+### 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryam-ui&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Maryam's GitHub Stats" />
+  <!-- General Stats (Includes Total Repos, Stars Got, Commits via show_private/count) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maryam-ui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryam-ui&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Contribution Activity Graph / Commit Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryam-ui&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph" alt="Contribution Activity Graph" />
 </p>
 
 <p align="center">
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=maryam-ui&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
+---
+
+### 📂 Featured Projects
+*(You can update these placeholders with your actual project names and repository links)*
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project One** | Short description of your web app. | PHP, JavaScript, Bootstrap | [GitHub Repo](https://github.com/maryam-ui) |
+| **Project Two** | Short description of another great project. | Java, Git | [GitHub Repo](https://github.com/maryam-ui) |
 
 ---
 
@@ -52,16 +65,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
-
----
-
-### 📂 Featured Projects
-*(You can replace these placeholders with links to your favorite repositories)*
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project One** | Short description of your awesome project. | PHP, JavaScript | [View Repo](https://github.com/maryam-ui) |
-| **Project Two** | Short description of another great app you built. | Java, Bootstrap | [View Repo](https://github.com/maryam-ui) |
 
 ---
 
