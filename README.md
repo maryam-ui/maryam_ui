@@ -17,7 +17,7 @@
 ### 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <!-- General Stats (Includes Total Repos, Stars Got, Commits via show_private/count) -->
+  <!-- General Stats (Includes Total Repos, Stars Got, Commits) -->
   <img src="https://github-readme-stats.vercel.app/api?username=maryam-ui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" />
 </p>
 
