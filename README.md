@@ -210,7 +210,27 @@
 </p>
 <p align="center">
   <i>✨ Thanks for visiting my profile! Let's build something amazing together. ✨</i>
+
+
+  <p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=maryam-ui"
+    alt="GitHub repositories, stars, commits and contributions"
+    width="100%"
+  />
 </p>
 
 
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
